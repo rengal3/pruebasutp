@@ -13,8 +13,10 @@ import java.util.Random;
 public class LaboratorioSemana03 {
     private int a_edad[],a_aniosCliente[],
             a_gradoSatisfaccion[];
+    private int logto;
     
     private final String a_posiblesAnios[]={"-------",
+                                            
                                             "Entre 1 y 3 anios",
                                             "Entre 4 y 8 anios",
                                             "Mas de 8 anios"};
