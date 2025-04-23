@@ -9,13 +9,16 @@ import java.util.Random;
 /**
  *
  * @author Renato Galdo
+ * Pequeño cambio
  */
 public class LaboratorioSemana03 {
+    
+    private int prueba;
     private int a_edad[],a_aniosCliente[],
             a_gradoSatisfaccion[];
     private int logto;
     
-    private final String a_posiblesAnios[]={"-",
+    private final String a_posiblesAnios[]={"Maricielo vuelve :'v",
                                             "Entre 1 y 3 anios",
                                             "Entre 4 y 8 anios",
                                             "Mas de 8 anios"};
@@ -101,7 +104,9 @@ public class LaboratorioSemana03 {
         this.imprimirDatos();        
     }
     
-   
+   public void probandoJosue (){
+       //hola
+}
                 
     public static void main (String args[]){
         LaboratorioSemana03 ejemplo=new LaboratorioSemana03(50);
