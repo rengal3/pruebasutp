@@ -15,8 +15,7 @@ public class LaboratorioSemana03 {
             a_gradoSatisfaccion[];
     private int logto;
     
-    private final String a_posiblesAnios[]={"-------",
-                                            
+    private final String a_posiblesAnios[]={"-",
                                             "Entre 1 y 3 anios",
                                             "Entre 4 y 8 anios",
                                             "Mas de 8 anios"};
