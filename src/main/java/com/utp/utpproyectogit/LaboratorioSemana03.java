@@ -18,6 +18,8 @@ public class LaboratorioSemana03 {
             a_gradoSatisfaccion[];
     private int logto;
     
+    private int edad_creacion;
+    
     private final String a_posiblesAnios[]={"Maricielo vuelve :'v",
                                             "Entre 1 y 3 anios",
                                             "Entre 4 y 8 anios",
