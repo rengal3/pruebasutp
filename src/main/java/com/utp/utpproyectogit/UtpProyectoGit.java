@@ -10,6 +10,9 @@ package com.utp.utpproyectogit;
  */
 public class UtpProyectoGit {
 
+    public static void nuevoMetodo(int a){
+        
+    }
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
