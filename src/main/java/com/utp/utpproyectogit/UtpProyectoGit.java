@@ -13,6 +13,9 @@ public class UtpProyectoGit {
     public static void nuevoMetodo(int a){
         
     }
+
+    public static int metodoNuevoRemoto(int b){
+    }
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
