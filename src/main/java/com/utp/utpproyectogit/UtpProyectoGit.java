@@ -14,7 +14,10 @@ public class UtpProyectoGit {
         
     }
     
-    //Psicologia es la voz
+    public static void probandoSemana6(){
+        //Psicologia es la voz
+    }
+    
 
     public static int metodoNuevoRemoto(int b){
         return 0;
