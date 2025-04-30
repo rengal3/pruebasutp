@@ -17,6 +17,9 @@ public class UtpProyectoGit {
     // Andres cambiate  a Psicologia es la voz
     
 
+    public  String mesaje(){
+        return "";
+    }
     public static int metodoNuevoRemoto(int b){
         return 0;
     }
