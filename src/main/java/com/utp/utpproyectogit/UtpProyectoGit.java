@@ -20,7 +20,7 @@ public class UtpProyectoGit {
     
 
     public static int metodoNuevoRemoto(int b){
-        return 1;
+        return 2;
     }
     
     public static void main(String[] args) {
