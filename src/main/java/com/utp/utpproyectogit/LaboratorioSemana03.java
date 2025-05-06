@@ -20,6 +20,10 @@ public class LaboratorioSemana03 {
     
     private int edad_creacion;
     
+    
+    private String holaaaaaaaa;
+          
+    
     private final String a_posiblesAnios[]={"Maricielo vuelve :'v",
                                             "Nesecito mas esencia",
                                             "Entre 4 y 8 anios",
