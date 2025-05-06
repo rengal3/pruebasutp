@@ -21,7 +21,7 @@ public class LaboratorioSemana03 {
     private int edad_creacion;
     
     private final String a_posiblesAnios[]={"Maricielo vuelve :'v",
-                                            "Entre 1 y 3 anios",
+                                            "Nesecito mas esencia",
                                             "Entre 4 y 8 anios",
                                             "Mas de 8 anios"};
     private final String a_posiblesSatisfaccion[]={"Excelente",
