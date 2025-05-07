@@ -11,6 +11,8 @@ import java.util.Random;
  * @author Renato Galdo
  * Pequeño cambio
  */
+
+// Editado por un fork de Palacios jej
 public class LaboratorioSemana03 {
     
     private int prueba;
